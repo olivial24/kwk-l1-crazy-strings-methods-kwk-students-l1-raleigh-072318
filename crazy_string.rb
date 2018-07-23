@@ -7,5 +7,5 @@ def crazystrings
 "hello".reverse
 "hello".upcase 
 "friends".swapcase 
-"friends".gsub("s""z")
+"friends".gsub("s" "z")
 end
