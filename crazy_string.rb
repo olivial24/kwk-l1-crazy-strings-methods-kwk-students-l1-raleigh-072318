@@ -3,7 +3,7 @@
 "friends".swapcase 
 "friends".gsub("s" "z")
 
-def crazy_strings(a,b)
+def crazystrings
 "hello".reverse
 "hello".upcase 
 "friends".swapcase 
